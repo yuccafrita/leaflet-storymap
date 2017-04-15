@@ -3,6 +3,7 @@ Leaflet storymap with scroll-driven navigation for narrative and point markers f
 
 ## Demo
 http://jackdougherty.github.io/leaflet-storymap/index.html
+https://yuccafrita.github.io/leaflet-storymap/
 
 ### Features
 - Scroll-driven navigation, using screen swipe, trackpad, or keyboard down-arrow. Initial map displays all point markers.
